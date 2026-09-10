@@ -22,5 +22,6 @@ Run the simulation:
 
 Bash
 python app.py
+
 🎮 Controls
 Rotate Camera: Hold Right Mouse Button (RMB) and drag.
